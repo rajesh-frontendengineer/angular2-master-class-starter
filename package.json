@@ -29,7 +29,7 @@
     "clang-format": "^1.0.35",
     "codelyzer": "0.0.28",
     "ember-cli-inject-live-reload": "^1.4.0",
-    "glob": "^7.0.3",
+    "glob": "^8.0.0",
     "jasmine-core": "^2.3.4",
     "jasmine-spec-reporter": "^2.4.0",
     "karma": "^0.13.15",
